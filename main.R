@@ -9,3 +9,5 @@ write.csv(data, file = "/data/out/tables/result.csv", row.names = FALSE)
 
 
 aaaaa
+
+zzzz
